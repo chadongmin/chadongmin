@@ -31,7 +31,7 @@
 <h3>😄 About Me </h3>
 
 - 📄 Resume :
-[https://chadongmin.notion.site/chadongmin/Resume-1924aeb2c2ed4a20b477412ca038c45f]
+https://chadongmin.notion.site/chadongmin/Resume-1924aeb2c2ed4a20b477412ca038c45f
 
 - 👨‍💻 Portfolio : 
 [https://chadongmin.notion.site/25-Back-end-Developer-a54bc8ca516e48f38ca1fb7b972247f7?pvs=4](https://chadongmin.notion.site/25-Back-end-Developer-a54bc8ca516e48f38ca1fb7b972247f7?pvs=4)
