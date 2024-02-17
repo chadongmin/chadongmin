@@ -1,17 +1,33 @@
-<h1 align="center">안녕하세요👋 주니어 백엔드 개발자 차동민입니다.</h1>
-<h3 align="center">문제를 정확하게 식별하고/ 소통으로 해결 방법을 정의하며/ 집요함으로 결국 해결해내는 'T자형 개발자'입니다</h3>
+<h1 align="center">안녕하세요👋 </h1>
+<h3>문제를 정확하게 식별하고 / 소통으로 해결 방법을 정의하며 / 집요함으로 결국 해결해내는 <br> 'T자형 개발자' 차동민입니다.</h3>
 
-- 📄 Resume 
+<h3>🛠️ Tech Stack </h3>
+<p>
+    <a href="#"><img src="https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"></a>
+</p>
+<p>
+    <a href="#"><img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=github actions&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"></a>
+</p>
+
+<h3>😄 About Me </h3>
+
+- 📄 Resume :
 [https://chadongmin.notion.site/chadongmin/Resume-1924aeb2c2ed4a20b477412ca038c45f]
 
 - 👨‍💻 Portfolio : 
 [https://chadongmin.notion.site/25-Back-end-Developer-a54bc8ca516e48f38ca1fb7b972247f7?pvs=4](https://chadongmin.notion.site/25-Back-end-Developer-a54bc8ca516e48f38ca1fb7b972247f7?pvs=4)
 
-- 📝 Blog 
+- 📝 Blog :
 [https://iamdongmin.tistory.com](https://iamdongmin.tistory.com)
 
 
-- 📫 How to reach me 
+- 📫 How to reach me :
 **cdm2883@naver.com**
 
 - 💬 Ask me about **Java, Spring and OOP**
