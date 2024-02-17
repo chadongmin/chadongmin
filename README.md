@@ -1,6 +1,6 @@
-<p align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/40655807/305648314-2d0e4e91-b056-4963-8c51-10cf990b264c.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240217T140605Z&X-Amz-Expires=300&X-Amz-Signature=e04a47290e89023d8bf75b129cf830b714fe8f4a9852bcd91f961264d37f95bb&X-Amz-SignedHeaders=host&actor_id=40655807&key_id=0&repo_id=758908356">
-</p>
+<img src="https://github.com/chadongmin/chadongmin/assets/40655807/27e0fafc-cc43-4871-9894-0efbb377781d" style="width:200px">
+</img>
+
 저는 `다양한 경험`과 `전문성`을 겸비한 **T자형 개발자**가 되기 위해 노력합니다.
 
 `다양한 경험`
