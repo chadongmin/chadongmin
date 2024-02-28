@@ -1,4 +1,4 @@
-<img src="https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4">
+<img width = "75%" src="https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4">
 </img>
 <!--https://github.com/chadongmin/chadongmin/assets/40655807/27e0fafc-cc43-4871-9894-0efbb377781d (GIF)-->
 <!--https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4 -->
