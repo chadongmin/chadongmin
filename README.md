@@ -1,5 +1,6 @@
-<img width = "65%" src="https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4">
-</img>
+<div align="center">
+  <img width="70%" src="https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4" alt="Centered Image">
+</div>
 <!--https://github.com/chadongmin/chadongmin/assets/40655807/27e0fafc-cc43-4871-9894-0efbb377781d (GIF)-->
 <!--https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4 -->
 <h3>저는 '다양한 경험'과 '전문성'을 겸비한 T자형 개발자가 되기 위해 노력합니다.</h3>
