@@ -1,6 +1,7 @@
 <img src="https://github.com/chadongmin/chadongmin/assets/40655807/27e0fafc-cc43-4871-9894-0efbb377781d">
 </img>
 
+<!-- -->
 <h3>저는 '다양한 경험'과 '전문성'을 겸비한 T자형 개발자가 되기 위해 노력합니다.</h3>
 
 `다양한 경험`
