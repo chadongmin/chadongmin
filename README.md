@@ -50,22 +50,6 @@ https://chadongmin.notion.site/chadongmin/Resume-1924aeb2c2ed4a20b477412ca038c45
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/%EB%8F%99%EB%AF%BC-%EC%B0%A8-123714273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="차동민" height="30" width="40" /></a>
-<a href="https://instagram.com/cha_dong_min" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cha_dong_min" height="30" width="40" /></a>
-</p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadongmin&show_icons=true&locale=en&layout=compact" alt="chadongmin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chadongmin&show_icons=true&locale=en" alt="chadongmin" /></p>
-
-
-
-
-
 <!--
 **chadongmin/chadongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
