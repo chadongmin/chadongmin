@@ -1,41 +1,34 @@
-<div align="center">
-  <img width="70%" src="https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4" alt="Centered Image">
+현재 `(주)제네시스네스트` BE개발2팀에서 최고의 동료들과 함께 성장하며 일하고 있습니다.
+
+`미래에 일어날 변화를 예상하고 고민하는 것`이 얼마나 중요한 것인지 알고 있습니다.
+
+그래서 객체 지향과 클린 코드를 배우고 실천하고 있습니다.
+
+요즘은 도메인 주도 개발에 관심이 많습니다 😎
+
+
+
+<br><br>
+제 이력서 입니다📄 
   
-</div>
-<!--https://github.com/chadongmin/chadongmin/assets/40655807/27e0fafc-cc43-4871-9894-0efbb377781d (GIF)-->
-<!--https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4 -->
-
-
-
-
-<h3>🛠️ Tech Stack </h3>
-<p>
-    <a href="#"><img src="https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"></a>
-</p>
-<p>
-    <a href="#"><img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=github actions&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"></a>
-</p>
-
-
-<h3>😄 About Me </h3>
-
-- 📄 Resume :
 https://chadongmin.github.io/
 
-- 📝 Blog :
+새로 알게 된 내용, 업무 중 해결한 트러블 슈팅을 기록하는 블로그입니다 📚
+
 [https://iamdongmin.tistory.com](https://iamdongmin.tistory.com)
 
 
-- 📫 How to reach me :
+메일로 연락주세요 :)📫 
+
 **cdm2883@naver.com**
 
-- 💬 Ask me about **Java, Spring and OOP**
+<!-- <div align="center">
+  <img width="70%" src="https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4" alt="Centered Image">
+  
+</div> -->
+<!--https://github.com/chadongmin/chadongmin/assets/40655807/27e0fafc-cc43-4871-9894-0efbb377781d (GIF)-->
+<!--https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4 -->
+
 
 
 
