@@ -7,21 +7,6 @@
 요즘은 도메인 주도 개발에 관심이 많습니다 😎
 
 
-
-<br><br>
-제 이력서 입니다📄 
-  
-https://chadongmin.github.io/
-
-새로 알게 된 내용, 업무 중 해결한 트러블 슈팅을 기록하는 블로그입니다 📚
-
-[https://iamdongmin.tistory.com](https://iamdongmin.tistory.com)
-
-
-메일로 연락주세요 :)📫 
-
-**cdm2883@naver.com**
-
 <!-- <div align="center">
   <img width="70%" src="https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4" alt="Centered Image">
   
