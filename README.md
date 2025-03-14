@@ -1,33 +1,26 @@
-(주)제네시스네스트 BE개발2팀에서 백엔드 개발자로 재직중인 차동민입니다.
+<p> <img src="https://komarev.com/ghpvc/?username=goodGid" alt="hedythedev" /> </p>
 
-**'미래에 일어날 변화를 예상하고 고민하는 것'** 이 얼마나 중요한 것인지 알고 있기에,
+### Hello, I'm Dongmin Cha
 
-그래서 객체 지향과 클린 코드를 배우고 실천하려 노력합니다.
+Backend Developer at [GenesisNest ](https://genesisnest.com/)
 
-요즘은 도메인 주도 개발에 관심이 많습니다 😎
+There is almost everything about me. 😄
 
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="300"> 
 
-<!-- <div align="center">
-  <img width="70%" src="https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4" alt="Centered Image">
-  
-</div> -->
-<!--https://github.com/chadongmin/chadongmin/assets/40655807/27e0fafc-cc43-4871-9894-0efbb377781d (GIF)-->
-<!--https://github.com/chadongmin/chadongmin/assets/40655807/842cd9b1-f6ac-48a0-82c3-a11a62300db4 -->
+**Languages and Tools**
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/maven/maven.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+---
+**Opensource Contribution**
 
+openfeign/querydsl
 
-<!--
-**chadongmin/chadongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[[Merged]](https://github.com/OpenFeign/querydsl/commit/392adcdfc3da4b9773d92c1dbd3980070174222d) Fix Enum Serialization in CaseBuilder for Hibernate Compatibility - [PR](https://github.com/OpenFeign/querydsl/pull/966)  
+- CaseBuilder에서 enum을 문자열 리터럴로 직렬화하여 Hibernate 호환성 개선
