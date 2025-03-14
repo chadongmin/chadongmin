@@ -1,12 +1,9 @@
-<p> <img src="https://komarev.com/ghpvc/?username=goodGid" alt="hedythedev" /> </p>
-
 ### Hello, I'm Dongmin Cha
 
-Backend Developer at [GenesisNest ](https://genesisnest.com/)
+Backend Developer at [GenesisNest ](https://genesisnest.com/) 😃
 
-There is almost everything about me. 😄
 
-<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="300"> 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1a3h5OTZqZDNsN2NhZ2EzcXRrc29hazhqM3k0cTc1bHl1Y2lwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300"> 
 
 **Languages and Tools**
 
