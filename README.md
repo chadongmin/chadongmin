@@ -8,7 +8,7 @@ Backend Developer at [GenesisNest ](https://genesisnest.com/) 😃
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadongmin&langs_count=8&layout=compact&include_orgs=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-**Languages and Tools**
+### Languages and Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4"></code>
@@ -18,9 +18,9 @@ Backend Developer at [GenesisNest ](https://genesisnest.com/) 😃
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ---
-**Opensource Contribution**
+### Opensource Contribution
 
-openfeign/querydsl
+**openfeign/querydsl**
 
 [[Merged]](https://github.com/OpenFeign/querydsl/commit/392adcdfc3da4b9773d92c1dbd3980070174222d) Fix Enum Serialization in CaseBuilder for Hibernate Compatibility - [PR](https://github.com/OpenFeign/querydsl/pull/966)  
 - CaseBuilder에서 enum을 문자열 리터럴로 직렬화하여 Hibernate 호환성 개선
