@@ -6,7 +6,7 @@ Backend Developer at [GenesisNest ](https://genesisnest.com/) 😃
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1a3h5OTZqZDNsN2NhZ2EzcXRrc29hazhqM3k0cTc1bHl1Y2lwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300"> 
 
 
-![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=chadongmin&include_all_commits=true&include_orgs=true&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadongmin&langs_count=8&layout=compact&include_orgs=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadongmin&langs_count=8&layout=compact&include_orgs=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools**
 
