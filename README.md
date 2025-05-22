@@ -23,5 +23,5 @@ at [GenesisNest ](https://genesisnest.com/) 😃
 
 **openfeign/querydsl**
 
-[[Released 6.1.1]](https://github.com/OpenFeign/querydsl/releases/tag/6.11) Fix Enum Serialization in CaseBuilder for Hibernate Compatibility - [PR](https://github.com/OpenFeign/querydsl/pull/966)  
+[[QueryDSL 6.11 Released]](https://github.com/OpenFeign/querydsl/releases/tag/6.11) Fix Enum Serialization in CaseBuilder for Hibernate Compatibility - [PR](https://github.com/OpenFeign/querydsl/pull/966)  
 - CaseBuilder의 Enum 직렬화 방식을 수정하여 Hibernate 매핑 오류 해결
