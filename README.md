@@ -23,5 +23,8 @@ at [GenesisNest ](https://genesisnest.com/) 😃
 
 **openfeign/querydsl**
 
+[[QueryDSL 6.12 Released]](https://github.com/OpenFeign/querydsl/releases/tag/6.12) Add TypeWrapperFactoryExpression for Type-Safe Custom Number Mapping in Querydsl Aggregations - [PR](https://github.com/OpenFeign/querydsl/pull/1181)  
+- querydsl-core에 TypeWrapper 클래스를 추가하여, sumAggregate() 등 집계 함수의 결과를 Money와 같은 커스텀 Number 타입으로 변환할 수 있는 기능 제공
+
 [[QueryDSL 6.11 Released]](https://github.com/OpenFeign/querydsl/releases/tag/6.11) Fix Enum Serialization in CaseBuilder for Hibernate Compatibility - [PR](https://github.com/OpenFeign/querydsl/pull/966)  
 - CaseBuilder의 Enum 직렬화 방식을 수정하여 Hibernate 매핑 오류 해결
