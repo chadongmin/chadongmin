@@ -23,6 +23,9 @@ at [GenesisNest ](https://genesisnest.com/) 😃
 
 **openfeign/querydsl**
 
+[[QueryDSL 6.12 Released]](https://github.com/OpenFeign/querydsl/releases/tag/6.12) Fix: Improve handling of contains() on JPA collections mapped with @Converter to basic types - [PR](https://github.com/OpenFeign/querydsl/pull/1199)  
+- Hibernate의 JPQL 검증이 강화되면서 런타임 예외를 유발하던, @Converter 적용 컬렉션의 부적합한 JPQL 생성 문제를 JPQLSerializer에 사전 검증 로직을 추가하여 해결 (JPQLSerializer가 'MEMBER OF' 절을 생성하기 전에 사전 검증하여 명시적인 예외를 발생시키도록 수정)
+ 
 [[QueryDSL 6.12 Released]](https://github.com/OpenFeign/querydsl/releases/tag/6.12) Add TypeWrapperFactoryExpression for Type-Safe Custom Number Mapping in Querydsl Aggregations - [PR](https://github.com/OpenFeign/querydsl/pull/1181)  
 - querydsl-core에 TypeWrapper 클래스를 추가하여, sumAggregate() 등 집계 함수의 결과를 Money와 같은 커스텀 Number 타입으로 변환할 수 있는 기능 제공
 
