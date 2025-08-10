@@ -11,6 +11,11 @@ at [GenesisNest ](https://genesisnest.com/) 😃
 ---
 ### Opensource Contribution
 
+**assertj/assertj-core**
+
+[AssertJ 3.26.1 Released] Fix non-existent field validation in recursive comparison for container types - [PR](https://github.com/assertj/assertj-core/pull/3857)
+- `usingRecursiveComparison`에서 `List`, `Optional` 등 컨테이너 내부의 존재하지 않는 필드를 검사할 때, 예외를 발생시키지 않고 통과하던 문제를 해결. 검증 로직이 컨테이너 내부 요소까지 필드 존재 여부를 확인하도록 수정
+
 **openfeign/querydsl**
 
 [[QueryDSL 6.12 Released]](https://github.com/OpenFeign/querydsl/releases/tag/6.12) Fix: Improve handling of contains() on JPA collections mapped with @Converter to basic types - [PR](https://github.com/OpenFeign/querydsl/pull/1199)  
