@@ -11,10 +11,15 @@ at [GenesisNest ](https://genesisnest.com/) 😃
 ---
 ### Opensource Contribution
 
+**apache/zeppelin**
+
+[Merged] Fix JWT expiration validation security vulnerability - [PR](https://github.com/apache/zeppelin/pull/5007)
+- JWT 인증 시 만료 시간이 없는 토큰을 유효한 것으로 처리하던 보안 취약점을 해결. 토큰 검증 로직을 강화하여 만료 시간의 존재 여부를 강제하고, 관련 단위 테스트를 추가하여 시스템 보안을 강화
+
 **assertj/assertj-core**
 
 [Merged] Handle non-existent field check in recursive comparison containers - [PR](https://github.com/assertj/assertj-core/pull/3857)
-- `usingRecursiveComparison`에서 `List`, `Optional` 등 컨테이너 내부의 존재하지 않는 필드를 검사할 때, 예외를 발생시키지 않고 통과하던 문제를 해결. 검증 로직이 컨테이너 내부 요소까지 필드 존재 여부를 확인하도록 수정
+- usingRecursiveComparison에서 List, Optional 등 컨테이너 내부의 존재하지 않는 필드를 검사할 때, 예외를 발생시키지 않고 통과하던 문제를 해결. 검증 로직이 컨테이너 내부 요소까지 필드 존재 여부를 확인하도록 수정
 
 **openfeign/querydsl**
 
